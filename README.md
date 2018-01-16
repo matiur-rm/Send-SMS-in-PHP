@@ -1,4 +1,4 @@
-# php
+# Send SMS in PHP
 
 Sending SMS from applications ,this script will enable you to send SMS in PHP
 
